@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070552586188",
+    "firebase_url": "https://collegekhabri-a6ad2.firebaseio.com",
+    "project_id": "collegekhabri-a6ad2",
+    "storage_bucket": "collegekhabri-a6ad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070552586188:android:28947281e75cf42373ef69",
+        "android_client_info": {
+          "package_name": "com.example.collegekhabri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070552586188-9smvdmqnn5oeau4j9hrgmcscik66ccvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegekhabri",
+            "certificate_hash": "7ba80374ca3899727cd8b2c19daf1238a6809434"
+          }
+        },
+        {
+          "client_id": "1070552586188-f4h7ek51s2mbii7v68kv1l0b08hbl7qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHTkUWTSA-5LlKKJMi9jkMdE80K0PCTEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070552586188-f4h7ek51s2mbii7v68kv1l0b08hbl7qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
