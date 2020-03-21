@@ -28,8 +28,8 @@
 
     <ImageView
         android:id="@+id/imageView4"
-        android:layout_width="300dp"
-        android:layout_height="300dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:layout_marginStart="106dp"
         android:layout_marginTop="50dp"
         android:layout_marginEnd="105dp"
